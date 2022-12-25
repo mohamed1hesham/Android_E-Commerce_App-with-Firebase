@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "746236118674",
+    "firebase_url": "https://shopgate-9ec98-default-rtdb.firebaseio.com",
+    "project_id": "shopgate-9ec98",
+    "storage_bucket": "shopgate-9ec98.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746236118674:android:62fe9d2d31dbab2ea3c84b",
+        "android_client_info": {
+          "package_name": "com.shopgate.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "746236118674-rihupi787g11vtt109u782i8it763ftg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shopgate.ecommerce",
+            "certificate_hash": "f24ed82a1e53e6d4f97d29790771f39babda4767"
+          }
+        },
+        {
+          "client_id": "746236118674-do9e4b4jt122vdcgsjsk3kgtc9d425eb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4bLzTpxPOZ-gCFA7cmALNCZJUQBIUMx0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "746236118674-do9e4b4jt122vdcgsjsk3kgtc9d425eb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
