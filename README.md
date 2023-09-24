@@ -40,10 +40,10 @@
 <br>
 
 
-![Capture](images/11.jpg)
+![Capture](images/11.png)
 <br>
 
-![Capture](images/12.jpg)
+![Capture](images/12.png)
 <br>
 
 
