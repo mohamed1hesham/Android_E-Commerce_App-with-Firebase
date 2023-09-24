@@ -25,8 +25,28 @@
 
 <h1> Product Details </h1>
 <br>
+
 ![Capture](images/4.jpg)
 <br>
+
+<h1> Cart </h1>
+<br>
+
+![Capture](images/5.jpg)
+<br>
+
+
+<h1> Firebase </h1>
+<br>
+
+
+![Capture](images/11.jpg)
+<br>
+
+![Capture](images/12.jpg)
+<br>
+
+
 
 
 
