@@ -25,9 +25,7 @@
 
 <h1> Product Details </h1>
 <br>
-<h2> we have search by name and voice search </h2>
-
-![Capture](images/3.jpg)
+![Capture](images/4.jpg)
 <br>
 
 
