@@ -5,3 +5,9 @@
 <br>
 <h1> Splash Screen </h1>
 <br>
+
+![Capture](images/1.jpg)
+<br>
+
+<h1> Login page </h1>
+<br>
